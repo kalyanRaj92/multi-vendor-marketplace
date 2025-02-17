@@ -26,6 +26,5 @@ This is a cross-platform mobile app developed using React.js for the frontend an
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/multi-vendor-marketplace.git
-   cd multi-vendor-marketplace/backend
+   git clone https://github.com/kalyanRaj92/multi-vendor-marketplace.git
    ```
